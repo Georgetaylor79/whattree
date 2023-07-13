@@ -1,5 +1,7 @@
-html {}
-    background-color:url(./Public/Photoshop\ File\ Background.jpg)
+html{
+    background-color: rgba(247, 112, 24, .2);
+}
+    
 #image-gallery {
     margin-top: 10%;
     display: grid;
