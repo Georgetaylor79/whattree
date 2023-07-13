@@ -37,11 +37,11 @@ figcaption {
 }
 
 h1, h3, figcaption {
-    color: rgba(185, 63, 8, 1);
+    color: rgba(0, 46, 28);
 }
 
 .gallery-item {
-    border: 5px solid rgba(185, 63, 8, 1);
+    border: 5px solid rgb(0, 46, 28);
     border-radius: 15px;
     padding: 5px;
 }
